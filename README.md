@@ -10,3 +10,5 @@ JPA, Hibernate
 
 Backend:
 MySQL
+
+Built along with the Udemy course : https://www.udemy.com/course/build-an-online-bank-with-java-angular-2-spring-and-more/
